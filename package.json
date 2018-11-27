@@ -1,0 +1,11 @@
+{
+  "name": "Assignment2",
+  "version": "0.0.1",
+  "description": "Assignment2",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "dependencies": {
+    "web3": "latest"
+  }
+}
